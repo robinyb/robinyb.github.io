@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>Robin&#39;s Pensieve</title>
   
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://robinyb.github.io/"/>
   <updated>2018-01-08T14:30:17.251Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://robinyb.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Robin</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2018/01/08/hello-world/"/>
-    <id>http://yoursite.com/2018/01/08/hello-world/</id>
+    <link href="http://robinyb.github.io/2018/01/08/hello-world/"/>
+    <id>http://robinyb.github.io/2018/01/08/hello-world/</id>
     <published>2018-01-08T14:30:17.250Z</published>
     <updated>2018-01-08T14:30:17.251Z</updated>
     
